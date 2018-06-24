@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1467257024370" stop="1467257101965" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : twitter</name>
+    <title>Default Suite : twitter</title>
+    <test-cases>
+        <test-case start="1467257083666" stop="1467257099378" status="passed">
+            <name>logIn</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="BaliWS21"/>
+                <label name="thread" value="7216@BaliWS21.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
